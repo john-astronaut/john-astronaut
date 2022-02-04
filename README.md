@@ -1,2 +1,2 @@
 👋 Hi , Are you ready for another challenge?
-- 👀 https://www.mediafire.com/file/kzy2cm9rp4jy8rb/CTF.exe/file
+- 👀 https://www.mediafire.com/file/gply3nnhlzsj87z/CTF.exe/file
